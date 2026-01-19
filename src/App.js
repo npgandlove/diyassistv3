@@ -6,7 +6,7 @@ const Navbar = () => (
   <nav style={styles.nav}>
     <Link to="/">
       <img 
-        src="/diyassistv10.png" 
+        src="./diyassistv10.png" 
         alt="the diy assist logo" 
         style={styles.logo} 
         onError={(e) => e.target.src = 'https://thediyassit.com/50?text=Logo'} 
