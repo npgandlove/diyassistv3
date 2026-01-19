@@ -49,8 +49,11 @@ const Provider = () => (
     <div style={styles.infoCard}>
       <p>Join our network of experts and help others succeed.</p>
       <ul>
+        <li>work from anywhere as long as you have a phone or computer</li>
         <li>Annual Membership: <strong>$250</strong></li>
         <li>Service Fee: <strong>13%</strong></li>
+        <li>No additional fees for marketing or advertising</li>
+        <li>set your own pricing and adjust as needed</li>
       </ul>
     </div>
     <a href="https://form.jotform.com/260168284665061" target="_blank" rel="noreferrer">
