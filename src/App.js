@@ -55,6 +55,7 @@ const Provider = () => (
         <li>No additional fees for marketing or advertising</li>
         <li>set your own pricing and adjust as needed</li>
       </ul>
+<a href="mailto:providers@thediyassist.com?subject=Provider Inquiry">Email Us</a>
     </div>
     <a href="https://form.jotform.com/260168284665061" target="_blank" rel="noreferrer">
       <button style={styles.button}>Sign Up as a Provider</button>
